@@ -1,3 +1,6 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17677541.svg)](https://doi.org/10.5281/zenodo.17677541)
+
+
 # The Divine Nature of Holy Trinity and The Nature of Human Souls
 
 Author :- Pawan Upadhyay 
@@ -138,3 +141,7 @@ Therefore, these terms maintain the absolute transcendence of the Trinity.
 
 To say that the Holy Trinity is unmade, unborn, and uncreate is to affirm the core Christian teaching of God’s eternal, self-existent, and uncaused nature.
 This statement emphasizes the absolute uniqueness of God in contrast to all created things and aligns with both biblical revelation and the foundational doctrines of historic Christianity.
+
+
+## Citation
+Upadhyay, P. (2025). *Soul Activity in the Moments of Life Formation*. Zenodo. https://doi.org/10.5281/zenodo.17677541
