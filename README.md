@@ -144,4 +144,4 @@ This statement emphasizes the absolute uniqueness of God in contrast to all crea
 
 
 ## Citation
-Upadhyay, P. (2025). *Soul Activity in the Moments of Life Formation*. Zenodo. https://doi.org/10.5281/zenodo.17677541
+Upadhyay, P. (2025). *Divine nature of the Unborn holy trinity and the human nature of the human souls*. Zenodo. https://doi.org/10.5281/zenodo.17677541
