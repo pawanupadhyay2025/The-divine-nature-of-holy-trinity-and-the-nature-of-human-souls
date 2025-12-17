@@ -5,6 +5,8 @@
 
 Author :- Pawan Upadhyay 
 
+[![ORCID](https://img.shields.io/badge/ORCID-0009--0007--9077--5924-A6CE39?logo=orcid)](https://orcid.org/0009-0007-9077-5924)
+
 Email  :- pawanupadhyay28@hotmail.com
 
 # Difference between Supreme Spirit and Soul 
