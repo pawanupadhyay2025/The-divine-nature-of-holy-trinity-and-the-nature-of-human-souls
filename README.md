@@ -1,5 +1,9 @@
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17677541.svg)](https://doi.org/10.5281/zenodo.17677541)
 
+[![Archive](https://img.shields.io/badge/Archive-Reincarnation-blue?logo=internetarchive)](https://archive.org/details/resurrectionandreincarnation)
+
+[![OSF DOI](https://img.shields.io/badge/DOI-10.17605%2Fosf.io%2Frk6dc-blue?logo=doi)](https://doi.org/10.17605/osf.io/rk6dc)
+
 
 # The Divine Nature of Holy Trinity and The Nature of Human Souls
 
