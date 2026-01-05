@@ -1,5 +1,3 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.17677541.svg)](https://doi.org/10.5281/zenodo.17677541)
-
 [![Archive](https://img.shields.io/badge/Archive-Reincarnation-blue?logo=internetarchive)](https://archive.org/details/resurrectionandreincarnation)
 
 [![OSF DOI](https://img.shields.io/badge/DOI-10.17605%2Fosf.io%2Frk6dc-blue?logo=doi)](https://doi.org/10.17605/osf.io/rk6dc)
@@ -149,6 +147,6 @@ To say that the Holy Trinity is unmade, unborn, and uncreate is to affirm the co
 This statement emphasizes the absolute uniqueness of God in contrast to all created things and aligns with both biblical revelation and the foundational doctrines of historic Christianity.
 
 
-## Citation
+[![Archive](https://img.shields.io/badge/Archive-Reincarnation-blue?logo=internetarchive)](https://archive.org/details/resurrectionandreincarnation)
 
-Upadhyay, P. U. (2025). The divine nature of the holy trinity and the nature of the human souls. https://doi.org/10.5281/zenodo.17677541
+[![OSF DOI](https://img.shields.io/badge/DOI-10.17605%2Fosf.io%2Frk6dc-blue?logo=doi)](https://doi.org/10.17605/osf.io/rk6dc)
