@@ -150,3 +150,10 @@ This statement emphasizes the absolute uniqueness of God in contrast to all crea
 [![Archive](https://img.shields.io/badge/Archive-Reincarnation-blue?logo=internetarchive)](https://archive.org/details/resurrectionandreincarnation)
 
 [![OSF DOI](https://img.shields.io/badge/DOI-10.17605%2Fosf.io%2Frk6dc-blue?logo=doi)](https://doi.org/10.17605/osf.io/rk6dc)
+
+![Copyright](https://img.shields.io/badge/Copyright-©%202025–2026%20Pawan%20Upadhyay-blue)
+![License](https://img.shields.io/badge/License-CC%20BY--ND%204.0-green)
+
+Copyright © 2025–2026 Pawan Upadhyay  
+Licensed under Creative Commons Attribution–NoDerivatives 4.0 International  
+https://creativecommons.org/licenses/by-nd/4.0/
